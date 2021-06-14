@@ -1,0 +1,28 @@
+E:\Farcas Vlad Cristian\C#\C#\PbInfo\Magazin\Magazin\bin\Debug\Magazin.exe.config
+E:\Farcas Vlad Cristian\C#\C#\PbInfo\Magazin\Magazin\bin\Debug\Magazin.exe
+E:\Farcas Vlad Cristian\C#\C#\PbInfo\Magazin\Magazin\bin\Debug\Magazin.pdb
+E:\Farcas Vlad Cristian\C#\C#\PbInfo\Magazin\Magazin\obj\Debug\Magazin.csprojResolveAssemblyReference.cache
+E:\Farcas Vlad Cristian\C#\C#\PbInfo\Magazin\Magazin\obj\Debug\Magazin.Properties.Resources.resources
+E:\Farcas Vlad Cristian\C#\C#\PbInfo\Magazin\Magazin\obj\Debug\Magazin.csproj.GenerateResource.Cache
+E:\Farcas Vlad Cristian\C#\C#\PbInfo\Magazin\Magazin\obj\Debug\Magazin.exe
+E:\Farcas Vlad Cristian\C#\C#\PbInfo\Magazin\Magazin\obj\Debug\Magazin.pdb
+E:\Farcas Vlad Cristian\C#\C#\PbInfo\Magazin\Magazin\obj\Debug\Magazin.magazin.resources
+E:\Farcas Vlad Cristian\C#\Magazin\Magazin\bin\Debug\Magazin.exe.config
+E:\Farcas Vlad Cristian\C#\Magazin\Magazin\obj\Debug\Magazin.exe
+E:\Farcas Vlad Cristian\C#\Magazin\Magazin\obj\Debug\Magazin.pdb
+E:\Farcas Vlad Cristian\C#\Magazin\Magazin\bin\Debug\Magazin.exe
+E:\Farcas Vlad Cristian\C#\Magazin\Magazin\bin\Debug\Magazin.pdb
+E:\Farcas Vlad Cristian\C#\Magazin\Magazin\obj\Debug\Magazin.csprojResolveAssemblyReference.cache
+E:\Farcas Vlad Cristian\C#\Magazin\Magazin\obj\Debug\Magazin.magazin.resources
+E:\Farcas Vlad Cristian\C#\Magazin\Magazin\obj\Debug\Magazin.Properties.Resources.resources
+E:\Farcas Vlad Cristian\C#\Magazin\Magazin\obj\Debug\Magazin.csproj.GenerateResource.Cache
+C:\Info\C#\Magazin\Magazin\bin\Debug\Magazin.exe.config
+C:\Info\C#\Magazin\Magazin\bin\Debug\Magazin.exe
+C:\Info\C#\Magazin\Magazin\bin\Debug\Magazin.pdb
+C:\Info\C#\Magazin\Magazin\obj\Debug\Magazin.csprojAssemblyReference.cache
+C:\Info\C#\Magazin\Magazin\obj\Debug\Magazin.magazin.resources
+C:\Info\C#\Magazin\Magazin\obj\Debug\Magazin.Properties.Resources.resources
+C:\Info\C#\Magazin\Magazin\obj\Debug\Magazin.csproj.GenerateResource.cache
+C:\Info\C#\Magazin\Magazin\obj\Debug\Magazin.csproj.CoreCompileInputs.cache
+C:\Info\C#\Magazin\Magazin\obj\Debug\Magazin.exe
+C:\Info\C#\Magazin\Magazin\obj\Debug\Magazin.pdb
